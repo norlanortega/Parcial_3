@@ -43,7 +43,8 @@ cd Figuras
 dotnet run
 ```
 
-![Ejecución de Figuras](capturas/02-figuras.png)
+<img width="1749" height="615" alt="image" src="https://github.com/user-attachments/assets/729f54c9-096d-4e05-b2ad-0f77d5a973a5" />
+
 
 ---
 
@@ -61,7 +62,8 @@ dotnet add package Newtonsoft.Json
 dotnet run
 ```
 
-![Ejecución de ejemploJson](capturas/01-json.png)
+<img width="1828" height="543" alt="image" src="https://github.com/user-attachments/assets/05bc3153-d0a0-4509-83db-95ccd2aa6753" />
+
 
 ---
 
@@ -103,15 +105,18 @@ dotnet run
 
 **Registro de usuario y acceso exitoso (muestra el nombre del usuario):**
 
-![Registro y login](capturas/04-registro-login.png)
+<img width="562" height="311" alt="Screenshot 2026-11-09 103652" src="https://github.com/user-attachments/assets/455df2f3-5d0b-4f27-a932-51ad905102ce" />
+
 
 **Historial de intentos desde la aplicación:**
 
-![Historial de intentos](capturas/03-login-historial.png)
+<img width="462" height="239" alt="Screenshot 2026-11-09 103658" src="https://github.com/user-attachments/assets/54a9d4c0-70b2-4c5a-9aa4-38f4eb9212d0" />
+
 
 **Datos guardados en SQL Server (`Usuarios` con el hash e `IntentosLogin`):**
 
-![Tablas en SQL Server](capturas/05-sql-tablas.png)
+<img width="1263" height="844" alt="image" src="https://github.com/user-attachments/assets/e22ea845-31fa-4c1d-81be-ef6b7d27ab4e" />
+
 
 ---
 
